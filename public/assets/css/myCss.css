@@ -1,0 +1,19 @@
+table tr td img{
+    height: 200px;
+}
+.pagination span a{
+    padding-left: 10px;
+    background: #3F51B5;
+    color: white;
+    padding-right: 10px;
+    border-radius: 4px;
+    margin-right: 3px;
+}
+
+.pagination span.active a{
+    background: #9e9e9e;
+}
+.image-edit{
+    border: 1px solid #3F51B5;
+    padding: 3px;
+}

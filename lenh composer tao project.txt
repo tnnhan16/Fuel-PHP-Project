@@ -1,0 +1,1 @@
+ composer create-project fuel/fuel:dev-1.9/develop --prefer-source Fuel_PHP
